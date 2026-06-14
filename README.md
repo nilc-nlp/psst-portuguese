@@ -1,6 +1,6 @@
 # Psst Portuguese
 
-Code for the preprocessing, training and evaluation of the psst-portuguese model, available at the [NILC NLP Hugging Face](https://huggingface.co/nilc-nlp). Some scripts necessitate the creation of a .env with your hugging face and wandb keys.
+Code for the preprocessing, training and evaluation of the psst-portuguese model, available at the [NILC NLP Hugging Face](https://huggingface.co/nilc-nlp). Some scripts require the creation of a .env with your hugging face and wandb keys.
 
 ## Preprocessing pipeline
 
