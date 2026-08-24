@@ -20,4 +20,5 @@ Code for the preprocessing, training and evaluation of the psst-portuguese model
 
 ## Citation
 
-The paper for this project is not yet publicly available. If you want to use this code, please cite using the GitHub link.
+The paper for this project is not yet publicly available. If you want to use this code, please cite using the GitHub link or the arxiv link 
+https://arxiv.org/abs/2607.07408 .
