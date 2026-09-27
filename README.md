@@ -22,3 +22,7 @@ Code for the preprocessing, training and evaluation of the psst-portuguese model
 
 The paper for this project is not yet publicly available. If you want to use this code, please cite using the GitHub link or the arxiv link 
 https://arxiv.org/abs/2607.07408 .
+
+## Acknowledgements
+
+This study was partially funded by the São Paulo Research Foundation (FAPESP), Brazil, under grants No. 2025/23911-6 and 2025/06244-6. This project was also supported by the Ministry of Science, Technology and Innovation, with resources from Law No. 8,248, of October 23, 1991, under the PPI-SOFTEX program, coordinated by Softex and published under the TIC 13 Residency (Official Gazette of the Union, DOU 01245.010222/2022-44).
