@@ -25,4 +25,4 @@ https://arxiv.org/abs/2607.07408 .
 
 ## Acknowledgements
 
-This study was financed, in part, by the São Paulo Research Foundation (FAPESP), Brasil. Process Number 2025/23911-6. This study was financed in part by the Coordenacão de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
+This study was financed, in part, by the São Paulo Research Foundation (FAPESP), Brasil. Process Number 2025/23911-6. This study was financed in part by the Coordenacão de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. This project was also supported by the Ministry of Science, Technology and Innovation, with resources from Law No. 8,248, of October 23, 1991, under the PPI-SOFTEX program, coordinated by Softex and published under the TIC 13 Residency (Official Gazette of the Union, DOU 01245.010222/2022-44).
